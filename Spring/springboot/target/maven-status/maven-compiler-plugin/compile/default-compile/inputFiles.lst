@@ -1,0 +1,6 @@
+/Users/dawiddolny/PROJEKTY/SPRING/springboot/src/main/java/pl/javastart/springboot/config/AppConfig.java
+/Users/dawiddolny/PROJEKTY/SPRING/springboot/src/main/java/pl/javastart/springboot/SpringbootApplication.java
+/Users/dawiddolny/PROJEKTY/SPRING/springboot/src/main/java/pl/javastart/springboot/config/profile/DevProfile.java
+/Users/dawiddolny/PROJEKTY/SPRING/springboot/src/main/java/pl/javastart/springboot/config/DatabaseDatasource.java
+/Users/dawiddolny/PROJEKTY/SPRING/springboot/src/main/java/pl/javastart/springboot/config/profile/ProdProfile.java
+/Users/dawiddolny/PROJEKTY/SPRING/springboot/src/main/java/pl/javastart/springboot/beans/NamesRepository.java

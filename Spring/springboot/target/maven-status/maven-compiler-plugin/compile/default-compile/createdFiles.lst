@@ -1,0 +1,7 @@
+pl/javastart/springboot/config/DatabaseDatasource.class
+pl/javastart/springboot/config/AppConfig.class
+pl/javastart/springboot/SpringbootApplication.class
+pl/javastart/springboot/beans/NamesRepository.class
+pl/javastart/springboot/config/profile/DevProfile.class
+pl/javastart/springboot/config/AppConfig$1.class
+pl/javastart/springboot/config/profile/ProdProfile.class
